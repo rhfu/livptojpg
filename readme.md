@@ -1,4 +1,4 @@
-# 苹果相面拍摄的图片livp格式，提取jpg文件格式
+# 苹果相机拍摄的图片livp格式，提取jpg文件
 
 - 把livp相片拷贝到livp目录下
 - python3 main.py
